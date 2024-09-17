@@ -1,0 +1,3 @@
+[submodule "3rdparty/cpprestsdk"]
+	path = 3rdparty/cpprestsdk
+	url = https://github.com/microsoft/cpprestsdk
