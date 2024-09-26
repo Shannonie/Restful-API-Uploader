@@ -1,8 +1,10 @@
 # RestfulAPI
 
-- An application to upload JSON-formatted inference results of AI models to SPC (Statistical
-Process Control)
-- Implemented with C++ REST SDK leveraging HTTP protocol
+- An application implemented with the C++ REST SDK utilizes the HTTP protocol for efficient data transfer to upload JSON-formatted inference results from AI models to Statistical Process Control (SPC)
+- Techniques:
+  - JSON Serialization
+  - HTTP Protoco
+  - RESTful API Design
 
 # Cmake build
 - Clone Submodule to :
