@@ -1,4 +1,4 @@
-# RestfulAPI
+# Restful-API-Uploader
 
 - An application implemented with the C++ REST SDK utilizes the HTTP protocol for efficient data transfer to upload JSON-formatted inference results from AI models to Statistical Process Control (SPC)
 - Techniques:
